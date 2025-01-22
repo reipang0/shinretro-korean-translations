@@ -8,6 +8,7 @@ Change the language of the theme interface
 | setting |  |
 |--|--|
 | **en** | English |
+| ko | Korean |
 | ch | Chinese |
 | de | German |
 | fr | French |
