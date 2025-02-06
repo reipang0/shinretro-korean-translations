@@ -1,4 +1,20 @@
 # Changelog
+
+## v0.201k
+
+ - 한국어 번역 추가 by @reipang0
+
+
+## v0.201
+
+ - Fix the favorite icon vertical alignment when using screenshot grid by @msheehan79
+ - Futher adjustment to the favorite icon color - the text property work… by @msheehan79
+ - Updated chinese translations by @TigraTT-Driver
+ - fix: marquee layering fix by @TigraTT-Driver
+ - added artwork for triforce arcade by @TigraTT-Driver
+ - V201 by @TigraTT-Driver
+
+
 ## v0.200
 
 **Optical changes**
